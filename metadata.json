@@ -1,0 +1,5 @@
+{
+  "name": "InsightCard - AI Knowledge Sharer",
+  "description": "An elegant tool that uses Gemini AI to format, summarize, and design beautiful shareable knowledge cards from your text inputs.",
+  "requestFramePermissions": []
+}
